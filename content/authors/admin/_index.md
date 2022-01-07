@@ -1,14 +1,17 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I am a global health epidemiologist with training in public health, biostatistics, and
+  experimental design. I am interested in using data to generate reliable evidence that improve
+  decision-making, health system performance, and population health in low- and middle-income 
+  settings. My current work focuses on using data science to understand trends in maternal and child
+  health, vaccine-preventable diseases, HIV/AIDS, and tobacco/alcohol control.
 education:
-  courses:
-  - course: MPH in Epidemiology
-    institution: University of Toronto
-    year: 2017
-  - course: BMSc in Medical Sciences
-    institution: University of Western Ontario
-    year: 2015
+courses:
+- course: MPH in Epidemiology
+  institution: University of Toronto
+  year: 2017
+- course: BMSc in Medical Sciences
+  institution: University of Western Ontario
+  year: 2015
 email: ""
 highlight_name: false
 interests:
