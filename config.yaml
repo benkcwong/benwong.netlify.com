@@ -4,7 +4,7 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Ben K.C. Wong # Website name
+title: Ben KC Wong # Website name
 baseurl: 'https://benwong.netlify.app/' # Website URL
 copyright: '© Benjamin K.C. Wong (2021)' # Footer text, e.g. '© {year} Me'
 

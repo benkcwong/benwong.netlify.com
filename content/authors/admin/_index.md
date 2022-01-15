@@ -1,9 +1,5 @@
 ---
-bio: I am a global health epidemiologist with training in public health, biostatistics, and
-  experimental design. I am interested in using data to generate reliable evidence that improve
-  decision-making, health system performance, and population health in low- and middle-income 
-  settings. My current work focuses on using data science to understand trends in maternal and child
-  health, vaccine-preventable diseases, HIV/AIDS, and tobacco/alcohol control.
+bio:
 education:
 courses:
 - course: MPH in Epidemiology
@@ -18,9 +14,9 @@ interests:
 - Public Health
 - Epidemiology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: 
+  url: 
+role: Epidemiologist
 social:
 - icon: envelope
   icon_pack: fas
@@ -29,23 +25,26 @@ social:
     header: true
   icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/benkcwong
 - icon: graduation-cap
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=87cmlcIAAAAJ&hl=nl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/benkcwong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/benckcwong/
+- icon: goodreads
+  icon_pack: fab
+  link: https://www.goodreads.com/user/show/80394126-ben-wong
+  
 superuser: true
 title: Benjamin Wong
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm currently a medical student based in Ireland and previously worked as a global health epidemiologist with a background in public health. I'm interested in using data to improve decision-making and health system performance, particularly in low resource settings. My current work focuses on using data science to understand trends in maternal and child health, vaccine-preventable diseases, and tobacco/alcohol control.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I like data analysis, books (memoirs/biographies!), guitar (jazz!), coffee (lots!), and communicating science to a broader audience.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/BW_CV_Short_15Jan2022.pdf" "newtab" >}}CV{{< /staticref >}}.
