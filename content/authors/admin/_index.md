@@ -11,8 +11,6 @@ courses:
 email: ""
 highlight_name: false
 interests:
-- Public Health
-- Epidemiology
 organizations:
 - name: 
   url: 
@@ -43,8 +41,8 @@ superuser: true
 title: Benjamin Wong
 ---
 
-I'm currently a medical student based in Ireland and previously worked as a global health epidemiologist with a background in public health. I'm interested in using data to improve decision-making and health system performance, particularly in low resource settings. My current work focuses on using data science to understand trends in maternal and child health, vaccine-preventable diseases, and tobacco/alcohol control.
+I'm an epidemiologist turned medical student now based in Ireland. I'm interested in using clinical data to improve decision-making and health system performance, particularly in low resource settings. My current work focuses on understanding trends in maternal and child health, vaccine-preventable diseases, and tobacco/alcohol control.
 
-I like data analysis, books (memoirs/biographies!), guitar (jazz!), coffee (lots!), and communicating science to a broader audience.
+I like data analysis using R/Python, books (memoirs/biographies!), guitar (jazz!), coffee (lots!), and communicating science to a broader audience.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/BW_CV_Short_15Jan2022.pdf" "newtab" >}}CV{{< /staticref >}}.
