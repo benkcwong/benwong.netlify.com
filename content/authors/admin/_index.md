@@ -41,8 +41,8 @@ superuser: true
 title: Benjamin Wong
 ---
 
-I'm an epidemiologist turned medical student now based in Ireland. I'm interested in using clinical data to improve decision-making and health system performance, particularly in low resource settings. My current work focuses on understanding trends in maternal and child health, vaccine-preventable diseases, and tobacco/alcohol control.
+I'm an epidemiologist from Canada taking a slight detour to medical school in Ireland. I'm interested in improving health equity, especially using clinical data to improve decision-making and health system performance in low resource settings. My work in public health focuses on understanding trends in maternal and child health, vaccine-preventable diseases, and tobacco/alcohol control.
 
-I like data analysis using R/Python, books (memoirs/biographies!), guitar (jazz!), coffee (lots!), and communicating science to a broader audience.
+In my personal time, I like books (memoirs/biographies!), guitar (jazz!), coffee (lots!), board games (Carcassonne!), and learning languages (slowly picking up French!).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/BW_CV_Short_15Jan2022.pdf" "newtab" >}}CV{{< /staticref >}}.

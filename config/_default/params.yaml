@@ -38,7 +38,7 @@ appointment_url:
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Follow on Twitter!
+    name: Follow me on Twitter!
     link: 'https://twitter.com/benkcwong'
 
 # Site header

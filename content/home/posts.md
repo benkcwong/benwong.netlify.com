@@ -9,14 +9,14 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
+title: Recent Blog Posts
 subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
   page_type: post
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 4
   # Filter on criteria
   filters:
     author: ""
@@ -37,5 +37,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---

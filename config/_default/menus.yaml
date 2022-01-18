@@ -6,13 +6,13 @@
 main:
   - name: Home
     url: '#about'
-    weight: 10
+    weight: 1
   - name: Blog
-    url: '#posts'
-    weight: 20
+    url: post/
+    weight: 2
   - name: Publications
-    url: '#featured'
-    weight: 30
-  - name: Contact
+    url: publication/
+    weight: 3
+  - name: Say Hello!
     url: '#contact'
-    weight: 40
+    weight: 4
