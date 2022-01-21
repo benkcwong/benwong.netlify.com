@@ -68,5 +68,24 @@ data %>%
 
 Here is a sentence and ending with a reference.[@apaPublicationManual2020]
 
+### Try to encrypt a file
+
+https://www.rostrum.blog/2021/05/07/encrypted-rmd/
 
 
+### Create a New Post
+
+```{r, eval = FALSE}
+
+blogdown::new_post(
+  title = "bookdown, My Process",
+  date = '2018-10-04',
+  slug = 'how-bookdown',
+  tags = c("Bayesian", "bookdown", "brms", "Git", "GitHub", "Markdown", "R",
+           "Statistical Rethinking", "tidyverse", "tutorial")
+)
+
+
+```
+
+## References

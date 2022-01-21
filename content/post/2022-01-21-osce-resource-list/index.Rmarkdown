@@ -1,0 +1,55 @@
+---
+title: OSCE Resource List
+author: Benjamin Wong
+date: '2022-01-21'
+slug: osce-resource
+categories: []
+tags:
+  - OSCE
+  - Medicine
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2022-01-21T20:31:50Z'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+bibliography: /Users/bw_so/Documents/Git/benwong.netlify.com/content/post/citations.bib
+csl: /Users/bw_so/Documents/Git/benwong.netlify.com/content/post/nejm.csl 
+link-citations: yes
+---
+
+Hello world. 
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+
+library(tidyverse)
+library(gt)
+library(dplyr)
+
+```
+
+```{r, echo = FALSE, message = FALSE}
+
+data <- readxl::read_xlsx("data/osce-resource-table.xlsx")
+
+```
+
+
+```{r, echo = FALSE}
+
+### Convert to HTML links
+# https://community.rstudio.com/t/create-interactive-links-in-gt-table-in-rmarkdown/70266
+# https://stackoverflow.com/questions/68720533/embed-links-to-cells-of-rs-gt-tables
+
+data %>% 
+  dplyr::mutate(
+    Link = sprintf('<a href = "%s">%s</a>', Link, Link), 
+    Link = purrr::map(Link, gt::html)
+  ) %>% 
+  gt()
+
+```

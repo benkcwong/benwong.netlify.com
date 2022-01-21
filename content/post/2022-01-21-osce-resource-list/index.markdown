@@ -1,17 +1,16 @@
 ---
-title: Test Post
+title: OSCE Resource List
 author: Benjamin Wong
-date: '2022-01-19'
-slug: test-post
+date: '2022-01-21'
+slug: osce-resource
 categories: []
 tags:
-  - R
-  - Tidyverse
+  - OSCE
   - Medicine
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-01-19T20:27:27Z'
+lastmod: '2022-01-21T20:31:50Z'
 featured: no
 image:
   caption: ''
@@ -23,40 +22,14 @@ csl: /Users/bw_so/Documents/Git/benwong.netlify.com/content/post/nejm.csl
 link-citations: yes
 ---
 
-I use this post as my scrapbook.
+Hello world.
 
-Really good cheatsheet for RMarkdown.
-https://irene.vrbik.ok.ubc.ca/blog/2021-07-09-blogdown-cheatsheet/
-
-Read in Google Drive sheet and output as RMarkdown table.
-https://www.journaldev.com/51627/google-sheets-in-r
-
-Other Blogdown Resources:
-https://www.andreashandel.com/posts/blogdown-website-1/
-
-    ## -- Attaching packages --------------------------------------- tidyverse 1.3.1 --
-
-    ## v ggplot2 3.3.5     v purrr   0.3.4
-    ## v tibble  3.1.6     v dplyr   1.0.7
-    ## v tidyr   1.1.4     v stringr 1.4.0
-    ## v readr   2.1.1     v forcats 0.5.1
-
-    ## Warning: package 'readr' was built under R version 4.1.2
-
-    ## -- Conflicts ------------------------------------------ tidyverse_conflicts() --
-    ## x dplyr::filter() masks stats::filter()
-    ## x dplyr::lag()    masks stats::lag()
-
-``` r
-data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
-```
-
-<div id="osuhrxdzxm" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zcadovyllt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#osuhrxdzxm .gt_table {
+#zcadovyllt .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -81,7 +54,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-left-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_heading {
+#zcadovyllt .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -93,7 +66,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_title {
+#zcadovyllt .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -103,7 +76,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-bottom-width: 0;
 }
 
-#osuhrxdzxm .gt_subtitle {
+#zcadovyllt .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -113,13 +86,13 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-top-width: 0;
 }
 
-#osuhrxdzxm .gt_bottom_border {
+#zcadovyllt .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_col_headings {
+#zcadovyllt .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -134,7 +107,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_col_heading {
+#zcadovyllt .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -154,7 +127,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   overflow-x: hidden;
 }
 
-#osuhrxdzxm .gt_column_spanner_outer {
+#zcadovyllt .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -166,15 +139,15 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   padding-right: 4px;
 }
 
-#osuhrxdzxm .gt_column_spanner_outer:first-child {
+#zcadovyllt .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#osuhrxdzxm .gt_column_spanner_outer:last-child {
+#zcadovyllt .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#osuhrxdzxm .gt_column_spanner {
+#zcadovyllt .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -186,7 +159,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   width: 100%;
 }
 
-#osuhrxdzxm .gt_group_heading {
+#zcadovyllt .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -208,7 +181,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   vertical-align: middle;
 }
 
-#osuhrxdzxm .gt_empty_group_heading {
+#zcadovyllt .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -223,15 +196,15 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   vertical-align: middle;
 }
 
-#osuhrxdzxm .gt_from_md > :first-child {
+#zcadovyllt .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#osuhrxdzxm .gt_from_md > :last-child {
+#zcadovyllt .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#osuhrxdzxm .gt_row {
+#zcadovyllt .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -250,7 +223,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   overflow-x: hidden;
 }
 
-#osuhrxdzxm .gt_stub {
+#zcadovyllt .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -262,7 +235,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   padding-left: 12px;
 }
 
-#osuhrxdzxm .gt_summary_row {
+#zcadovyllt .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -272,7 +245,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   padding-right: 5px;
 }
 
-#osuhrxdzxm .gt_first_summary_row {
+#zcadovyllt .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -282,7 +255,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-top-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_grand_summary_row {
+#zcadovyllt .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -292,7 +265,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   padding-right: 5px;
 }
 
-#osuhrxdzxm .gt_first_grand_summary_row {
+#zcadovyllt .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -302,11 +275,11 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-top-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_striped {
+#zcadovyllt .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#osuhrxdzxm .gt_table_body {
+#zcadovyllt .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -315,7 +288,7 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-bottom-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_footnotes {
+#zcadovyllt .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -329,13 +302,13 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_footnote {
+#zcadovyllt .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#osuhrxdzxm .gt_sourcenotes {
+#zcadovyllt .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -349,41 +322,41 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   border-right-color: #D3D3D3;
 }
 
-#osuhrxdzxm .gt_sourcenote {
+#zcadovyllt .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#osuhrxdzxm .gt_left {
+#zcadovyllt .gt_left {
   text-align: left;
 }
 
-#osuhrxdzxm .gt_center {
+#zcadovyllt .gt_center {
   text-align: center;
 }
 
-#osuhrxdzxm .gt_right {
+#zcadovyllt .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#osuhrxdzxm .gt_font_normal {
+#zcadovyllt .gt_font_normal {
   font-weight: normal;
 }
 
-#osuhrxdzxm .gt_font_bold {
+#zcadovyllt .gt_font_bold {
   font-weight: bold;
 }
 
-#osuhrxdzxm .gt_font_italic {
+#zcadovyllt .gt_font_italic {
   font-style: italic;
 }
 
-#osuhrxdzxm .gt_super {
+#zcadovyllt .gt_super {
   font-size: 65%;
 }
 
-#osuhrxdzxm .gt_footnote_marks {
+#zcadovyllt .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -393,55 +366,41 @@ data <- readxl::read_xlsx("data/osce-resource-table-test.xlsx")
   
   <thead class="gt_col_headings">
     <tr>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Title</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Title</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Author</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Notes</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Link</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Notes</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Link</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Archived Link</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Date Added</th>
     </tr>
   </thead>
   <tbody class="gt_table_body">
-    <tr><td class="gt_row gt_center"><a href = "https://geekymedics.com/top-tips-for-osces/">Top Tips for OSCEs</a></td>
-<td class="gt_row gt_left">Geeky Medics</td>
+    <tr><td class="gt_row gt_left">Top Tips for OSCEs</td>
+<td class="gt_row gt_left">Geeky Medics (Amy Li)</td>
+<td class="gt_row gt_left">NA</td>
+<td class="gt_row gt_center"><a href = "https://geekymedics.com/top-tips-for-osces/">https://geekymedics.com/top-tips-for-osces/</a></td>
 <td class="gt_row gt_center">NA</td>
-<td class="gt_row gt_left">https://geekymedics.com/top-tips-for-osces/</td>
+<td class="gt_row gt_left">2022-01-21</td></tr>
+    <tr><td class="gt_row gt_left">How to Survive Your First OSCEs</td>
+<td class="gt_row gt_left">The Medic Portal</td>
+<td class="gt_row gt_left">NA</td>
+<td class="gt_row gt_center"><a href = "https://www.themedicportal.com/application-guide/first-year-of-med-school/how-to-survive-your-first-osces/">https://www.themedicportal.com/application-guide/first-year-of-med-school/how-to-survive-your-first-osces/</a></td>
+<td class="gt_row gt_center">NA</td>
+<td class="gt_row gt_left">2022-01-21</td></tr>
+    <tr><td class="gt_row gt_left">OSCE Stations</td>
+<td class="gt_row gt_left">Dr. Akash</td>
+<td class="gt_row gt_left">Nice practice scenarios.</td>
+<td class="gt_row gt_center"><a href = "https://osce-stations.blogspot.com/">https://osce-stations.blogspot.com/</a></td>
+<td class="gt_row gt_center">NA</td>
+<td class="gt_row gt_left">2022-01-21</td></tr>
+    <tr><td class="gt_row gt_left">OSCESense</td>
+<td class="gt_row gt_left">OSCESense</td>
+<td class="gt_row gt_left">Useful but new website so not much content yet.</td>
+<td class="gt_row gt_center"><a href = "https://www.oscesense.com/">https://www.oscesense.com/</a></td>
 <td class="gt_row gt_center">NA</td>
 <td class="gt_row gt_left">2022-01-21</td></tr>
   </tbody>
   
   
 </table>
-</div>
-
-### Trying a Reference/Citation
-
-Here is a sentence and ending with a reference.<sup>[1](#ref-apaPublicationManual2020)</sup>
-
-### Try to encrypt a file
-
-https://www.rostrum.blog/2021/05/07/encrypted-rmd/
-
-### Create a New Post
-
-``` r
-blogdown::new_post(
-  title = "bookdown, My Process",
-  date = '2018-10-04',
-  slug = 'how-bookdown',
-  tags = c("Bayesian", "bookdown", "brms", "Git", "GitHub", "Markdown", "R",
-           "Statistical Rethinking", "tidyverse", "tutorial")
-)
-```
-
-## References
-
-<div id="refs" class="references csl-bib-body">
-
-<div id="ref-apaPublicationManual2020" class="csl-entry">
-
-<span class="csl-left-margin">1. </span><span class="csl-right-inline">American Psychological Association. Publication manual of the American Psychological Association \[Internet\]. Seventh Edition. American Psychological Association; 2020. Available from: <https://apastyle.apa.org/products/publication-manual-7th-edition></span>
-
-</div>
-
 </div>
