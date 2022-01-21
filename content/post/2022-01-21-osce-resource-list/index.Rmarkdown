@@ -22,7 +22,10 @@ csl: /Users/bw_so/Documents/Git/benwong.netlify.com/content/post/nejm.csl
 link-citations: yes
 ---
 
-Hello world. 
+This is a growing list of OSCE resources that I've found helpful as I find them on the Internet. Some links are older so may need archiving in case they are lost forever. 
+If you find any other useful links, especially those with practice scenarios, shoot me an e-mail below (click the envelope!)
+
+Thanks!
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 

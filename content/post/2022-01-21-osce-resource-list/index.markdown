@@ -22,14 +22,17 @@ csl: /Users/bw_so/Documents/Git/benwong.netlify.com/content/post/nejm.csl
 link-citations: yes
 ---
 
-Hello world.
+This is a growing list of OSCE resources that I’ve found helpful as I find them on the Internet. Some links are older so may need archiving in case they are lost forever.
+If you find any other useful links, especially those with practice scenarios, shoot me an e-mail below (click the envelope!)
 
-<div id="zcadovyllt" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+Thanks!
+
+<div id="wubgilmbid" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#zcadovyllt .gt_table {
+#wubgilmbid .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -54,7 +57,7 @@ Hello world.
   border-left-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_heading {
+#wubgilmbid .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -66,7 +69,7 @@ Hello world.
   border-right-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_title {
+#wubgilmbid .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -76,7 +79,7 @@ Hello world.
   border-bottom-width: 0;
 }
 
-#zcadovyllt .gt_subtitle {
+#wubgilmbid .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -86,13 +89,13 @@ Hello world.
   border-top-width: 0;
 }
 
-#zcadovyllt .gt_bottom_border {
+#wubgilmbid .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_col_headings {
+#wubgilmbid .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -107,7 +110,7 @@ Hello world.
   border-right-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_col_heading {
+#wubgilmbid .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -127,7 +130,7 @@ Hello world.
   overflow-x: hidden;
 }
 
-#zcadovyllt .gt_column_spanner_outer {
+#wubgilmbid .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -139,15 +142,15 @@ Hello world.
   padding-right: 4px;
 }
 
-#zcadovyllt .gt_column_spanner_outer:first-child {
+#wubgilmbid .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#zcadovyllt .gt_column_spanner_outer:last-child {
+#wubgilmbid .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#zcadovyllt .gt_column_spanner {
+#wubgilmbid .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -159,7 +162,7 @@ Hello world.
   width: 100%;
 }
 
-#zcadovyllt .gt_group_heading {
+#wubgilmbid .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -181,7 +184,7 @@ Hello world.
   vertical-align: middle;
 }
 
-#zcadovyllt .gt_empty_group_heading {
+#wubgilmbid .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -196,15 +199,15 @@ Hello world.
   vertical-align: middle;
 }
 
-#zcadovyllt .gt_from_md > :first-child {
+#wubgilmbid .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#zcadovyllt .gt_from_md > :last-child {
+#wubgilmbid .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#zcadovyllt .gt_row {
+#wubgilmbid .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -223,7 +226,7 @@ Hello world.
   overflow-x: hidden;
 }
 
-#zcadovyllt .gt_stub {
+#wubgilmbid .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -235,7 +238,7 @@ Hello world.
   padding-left: 12px;
 }
 
-#zcadovyllt .gt_summary_row {
+#wubgilmbid .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -245,7 +248,7 @@ Hello world.
   padding-right: 5px;
 }
 
-#zcadovyllt .gt_first_summary_row {
+#wubgilmbid .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -255,7 +258,7 @@ Hello world.
   border-top-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_grand_summary_row {
+#wubgilmbid .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -265,7 +268,7 @@ Hello world.
   padding-right: 5px;
 }
 
-#zcadovyllt .gt_first_grand_summary_row {
+#wubgilmbid .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -275,11 +278,11 @@ Hello world.
   border-top-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_striped {
+#wubgilmbid .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#zcadovyllt .gt_table_body {
+#wubgilmbid .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -288,7 +291,7 @@ Hello world.
   border-bottom-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_footnotes {
+#wubgilmbid .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -302,13 +305,13 @@ Hello world.
   border-right-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_footnote {
+#wubgilmbid .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#zcadovyllt .gt_sourcenotes {
+#wubgilmbid .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -322,41 +325,41 @@ Hello world.
   border-right-color: #D3D3D3;
 }
 
-#zcadovyllt .gt_sourcenote {
+#wubgilmbid .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#zcadovyllt .gt_left {
+#wubgilmbid .gt_left {
   text-align: left;
 }
 
-#zcadovyllt .gt_center {
+#wubgilmbid .gt_center {
   text-align: center;
 }
 
-#zcadovyllt .gt_right {
+#wubgilmbid .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#zcadovyllt .gt_font_normal {
+#wubgilmbid .gt_font_normal {
   font-weight: normal;
 }
 
-#zcadovyllt .gt_font_bold {
+#wubgilmbid .gt_font_bold {
   font-weight: bold;
 }
 
-#zcadovyllt .gt_font_italic {
+#wubgilmbid .gt_font_italic {
   font-style: italic;
 }
 
-#zcadovyllt .gt_super {
+#wubgilmbid .gt_super {
   font-size: 65%;
 }
 
-#zcadovyllt .gt_footnote_marks {
+#wubgilmbid .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -368,8 +371,8 @@ Hello world.
     <tr>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Title</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Author</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Notes</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Link</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Notes</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Archived Link</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Date Added</th>
     </tr>
@@ -377,26 +380,26 @@ Hello world.
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Top Tips for OSCEs</td>
 <td class="gt_row gt_left">Geeky Medics (Amy Li)</td>
-<td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_center"><a href = "https://geekymedics.com/top-tips-for-osces/">https://geekymedics.com/top-tips-for-osces/</a></td>
+<td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_center">NA</td>
 <td class="gt_row gt_left">2022-01-21</td></tr>
     <tr><td class="gt_row gt_left">How to Survive Your First OSCEs</td>
 <td class="gt_row gt_left">The Medic Portal</td>
-<td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_center"><a href = "https://www.themedicportal.com/application-guide/first-year-of-med-school/how-to-survive-your-first-osces/">https://www.themedicportal.com/application-guide/first-year-of-med-school/how-to-survive-your-first-osces/</a></td>
+<td class="gt_row gt_left">NA</td>
 <td class="gt_row gt_center">NA</td>
 <td class="gt_row gt_left">2022-01-21</td></tr>
     <tr><td class="gt_row gt_left">OSCE Stations</td>
 <td class="gt_row gt_left">Dr. Akash</td>
-<td class="gt_row gt_left">Nice practice scenarios.</td>
 <td class="gt_row gt_center"><a href = "https://osce-stations.blogspot.com/">https://osce-stations.blogspot.com/</a></td>
+<td class="gt_row gt_left">Nice practice scenarios.</td>
 <td class="gt_row gt_center">NA</td>
 <td class="gt_row gt_left">2022-01-21</td></tr>
     <tr><td class="gt_row gt_left">OSCESense</td>
 <td class="gt_row gt_left">OSCESense</td>
-<td class="gt_row gt_left">Useful but new website so not much content yet.</td>
 <td class="gt_row gt_center"><a href = "https://www.oscesense.com/">https://www.oscesense.com/</a></td>
+<td class="gt_row gt_left">Useful but new website so not much content yet.</td>
 <td class="gt_row gt_center">NA</td>
 <td class="gt_row gt_left">2022-01-21</td></tr>
   </tbody>
