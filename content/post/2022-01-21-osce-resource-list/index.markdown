@@ -10,7 +10,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-01-21T20:31:50Z'
+lastmod: '2022-01-22T12:11:00Z'
 featured: no
 image:
   caption: ''
@@ -23,16 +23,14 @@ link-citations: yes
 ---
 
 This is a growing list of OSCE resources that I’ve found helpful as I find them on the Internet. Some links are older so may need archiving in case they are lost forever.
-If you find any other useful links, especially those with practice scenarios, shoot me an e-mail below (click the envelope!)
+If you find any other useful links, especially those with practice scenarios, shoot me an e-mail down below (click the blue envelope below my name!).
 
-Thanks!
-
-<div id="wubgilmbid" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="vfdagkjmvv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#wubgilmbid .gt_table {
+#vfdagkjmvv .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -57,7 +55,7 @@ Thanks!
   border-left-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_heading {
+#vfdagkjmvv .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -69,7 +67,7 @@ Thanks!
   border-right-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_title {
+#vfdagkjmvv .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -79,7 +77,7 @@ Thanks!
   border-bottom-width: 0;
 }
 
-#wubgilmbid .gt_subtitle {
+#vfdagkjmvv .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -89,13 +87,13 @@ Thanks!
   border-top-width: 0;
 }
 
-#wubgilmbid .gt_bottom_border {
+#vfdagkjmvv .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_col_headings {
+#vfdagkjmvv .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -110,7 +108,7 @@ Thanks!
   border-right-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_col_heading {
+#vfdagkjmvv .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -130,7 +128,7 @@ Thanks!
   overflow-x: hidden;
 }
 
-#wubgilmbid .gt_column_spanner_outer {
+#vfdagkjmvv .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -142,15 +140,15 @@ Thanks!
   padding-right: 4px;
 }
 
-#wubgilmbid .gt_column_spanner_outer:first-child {
+#vfdagkjmvv .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#wubgilmbid .gt_column_spanner_outer:last-child {
+#vfdagkjmvv .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#wubgilmbid .gt_column_spanner {
+#vfdagkjmvv .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -162,7 +160,7 @@ Thanks!
   width: 100%;
 }
 
-#wubgilmbid .gt_group_heading {
+#vfdagkjmvv .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -184,7 +182,7 @@ Thanks!
   vertical-align: middle;
 }
 
-#wubgilmbid .gt_empty_group_heading {
+#vfdagkjmvv .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -199,15 +197,15 @@ Thanks!
   vertical-align: middle;
 }
 
-#wubgilmbid .gt_from_md > :first-child {
+#vfdagkjmvv .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#wubgilmbid .gt_from_md > :last-child {
+#vfdagkjmvv .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#wubgilmbid .gt_row {
+#vfdagkjmvv .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -226,7 +224,7 @@ Thanks!
   overflow-x: hidden;
 }
 
-#wubgilmbid .gt_stub {
+#vfdagkjmvv .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -238,7 +236,7 @@ Thanks!
   padding-left: 12px;
 }
 
-#wubgilmbid .gt_summary_row {
+#vfdagkjmvv .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -248,7 +246,7 @@ Thanks!
   padding-right: 5px;
 }
 
-#wubgilmbid .gt_first_summary_row {
+#vfdagkjmvv .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -258,7 +256,7 @@ Thanks!
   border-top-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_grand_summary_row {
+#vfdagkjmvv .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -268,7 +266,7 @@ Thanks!
   padding-right: 5px;
 }
 
-#wubgilmbid .gt_first_grand_summary_row {
+#vfdagkjmvv .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -278,11 +276,11 @@ Thanks!
   border-top-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_striped {
+#vfdagkjmvv .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#wubgilmbid .gt_table_body {
+#vfdagkjmvv .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -291,7 +289,7 @@ Thanks!
   border-bottom-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_footnotes {
+#vfdagkjmvv .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -305,13 +303,13 @@ Thanks!
   border-right-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_footnote {
+#vfdagkjmvv .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#wubgilmbid .gt_sourcenotes {
+#vfdagkjmvv .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -325,41 +323,41 @@ Thanks!
   border-right-color: #D3D3D3;
 }
 
-#wubgilmbid .gt_sourcenote {
+#vfdagkjmvv .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#wubgilmbid .gt_left {
+#vfdagkjmvv .gt_left {
   text-align: left;
 }
 
-#wubgilmbid .gt_center {
+#vfdagkjmvv .gt_center {
   text-align: center;
 }
 
-#wubgilmbid .gt_right {
+#vfdagkjmvv .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#wubgilmbid .gt_font_normal {
+#vfdagkjmvv .gt_font_normal {
   font-weight: normal;
 }
 
-#wubgilmbid .gt_font_bold {
+#vfdagkjmvv .gt_font_bold {
   font-weight: bold;
 }
 
-#wubgilmbid .gt_font_italic {
+#vfdagkjmvv .gt_font_italic {
   font-style: italic;
 }
 
-#wubgilmbid .gt_super {
+#vfdagkjmvv .gt_super {
   font-size: 65%;
 }
 
-#wubgilmbid .gt_footnote_marks {
+#vfdagkjmvv .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -373,35 +371,61 @@ Thanks!
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Author</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Link</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Notes</th>
-      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Archived Link</th>
       <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Date Added</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_center" rowspan="1" colspan="1">Archived?</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1">Date Archived</th>
     </tr>
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Top Tips for OSCEs</td>
 <td class="gt_row gt_left">Geeky Medics (Amy Li)</td>
 <td class="gt_row gt_center"><a href = "https://geekymedics.com/top-tips-for-osces/">https://geekymedics.com/top-tips-for-osces/</a></td>
-<td class="gt_row gt_left">NA</td>
-<td class="gt_row gt_center">NA</td>
-<td class="gt_row gt_left">2022-01-21</td></tr>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-21</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
     <tr><td class="gt_row gt_left">How to Survive Your First OSCEs</td>
 <td class="gt_row gt_left">The Medic Portal</td>
 <td class="gt_row gt_center"><a href = "https://www.themedicportal.com/application-guide/first-year-of-med-school/how-to-survive-your-first-osces/">https://www.themedicportal.com/application-guide/first-year-of-med-school/how-to-survive-your-first-osces/</a></td>
-<td class="gt_row gt_left">NA</td>
-<td class="gt_row gt_center">NA</td>
-<td class="gt_row gt_left">2022-01-21</td></tr>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-21</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
     <tr><td class="gt_row gt_left">OSCE Stations</td>
 <td class="gt_row gt_left">Dr. Akash</td>
 <td class="gt_row gt_center"><a href = "https://osce-stations.blogspot.com/">https://osce-stations.blogspot.com/</a></td>
 <td class="gt_row gt_left">Nice practice scenarios.</td>
-<td class="gt_row gt_center">NA</td>
-<td class="gt_row gt_left">2022-01-21</td></tr>
+<td class="gt_row gt_left">2022-01-21</td>
+<td class="gt_row gt_center"><a href = "https://web.archive.org/web/20220122114820/https://osce-stations.blogspot.com/">Yes!</a></td>
+<td class="gt_row gt_left">2022-01-22</td></tr>
     <tr><td class="gt_row gt_left">OSCESense</td>
 <td class="gt_row gt_left">OSCESense</td>
 <td class="gt_row gt_center"><a href = "https://www.oscesense.com/">https://www.oscesense.com/</a></td>
 <td class="gt_row gt_left">Useful but new website so not much content yet.</td>
-<td class="gt_row gt_center">NA</td>
-<td class="gt_row gt_left">2022-01-21</td></tr>
+<td class="gt_row gt_left">2022-01-21</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">UCSD Practical Guide to Clinical Medicine</td>
+<td class="gt_row gt_left">UC San Diego</td>
+<td class="gt_row gt_center"><a href = "https://meded.ucsd.edu/clinicalmed/introduction.html">https://meded.ucsd.edu/clinicalmed/introduction.html</a></td>
+<td class="gt_row gt_left">An essential(!) resource</td>
+<td class="gt_row gt_left">2022-01-22</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">OSCE: The Ultimate Prep Guide in 2022</td>
+<td class="gt_row gt_left">BeMo Academic Consulting</td>
+<td class="gt_row gt_center"><a href = "https://bemoacademicconsulting.com/blog/osce">https://bemoacademicconsulting.com/blog/osce</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-22</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">OME Clinical Examinations</td>
+<td class="gt_row gt_left">Oxford Medical Education</td>
+<td class="gt_row gt_center"><a href = "https://oxfordmedicaleducation.com/clinical-examinations/">https://oxfordmedicaleducation.com/clinical-examinations/</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-22</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
   </tbody>
   
   
