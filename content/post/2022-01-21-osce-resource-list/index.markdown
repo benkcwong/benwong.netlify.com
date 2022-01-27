@@ -10,7 +10,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-01-22T12:11:00Z'
+lastmod: '2022-01-27T15:52:00Z'
 featured: no
 image:
   caption: ''
@@ -23,14 +23,14 @@ link-citations: yes
 ---
 
 This is a growing list of OSCE resources that I’ve found helpful as I find them on the Internet. Some links are older so may need archiving in case they are lost forever.
-If you find any other useful links, especially those with practice scenarios, shoot me an e-mail down below (click the blue envelope below my name!).
+If you find any other useful links, especially those with practice scenarios, let me know!
 
-<div id="vfdagkjmvv" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="jlrkbnpovf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#vfdagkjmvv .gt_table {
+#jlrkbnpovf .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -55,7 +55,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-left-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_heading {
+#jlrkbnpovf .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -67,7 +67,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-right-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_title {
+#jlrkbnpovf .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -77,7 +77,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-bottom-width: 0;
 }
 
-#vfdagkjmvv .gt_subtitle {
+#jlrkbnpovf .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -87,13 +87,13 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-top-width: 0;
 }
 
-#vfdagkjmvv .gt_bottom_border {
+#jlrkbnpovf .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_col_headings {
+#jlrkbnpovf .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -108,7 +108,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-right-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_col_heading {
+#jlrkbnpovf .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -128,7 +128,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   overflow-x: hidden;
 }
 
-#vfdagkjmvv .gt_column_spanner_outer {
+#jlrkbnpovf .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -140,15 +140,15 @@ If you find any other useful links, especially those with practice scenarios, sh
   padding-right: 4px;
 }
 
-#vfdagkjmvv .gt_column_spanner_outer:first-child {
+#jlrkbnpovf .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#vfdagkjmvv .gt_column_spanner_outer:last-child {
+#jlrkbnpovf .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#vfdagkjmvv .gt_column_spanner {
+#jlrkbnpovf .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -160,7 +160,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   width: 100%;
 }
 
-#vfdagkjmvv .gt_group_heading {
+#jlrkbnpovf .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -182,7 +182,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   vertical-align: middle;
 }
 
-#vfdagkjmvv .gt_empty_group_heading {
+#jlrkbnpovf .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -197,15 +197,15 @@ If you find any other useful links, especially those with practice scenarios, sh
   vertical-align: middle;
 }
 
-#vfdagkjmvv .gt_from_md > :first-child {
+#jlrkbnpovf .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#vfdagkjmvv .gt_from_md > :last-child {
+#jlrkbnpovf .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#vfdagkjmvv .gt_row {
+#jlrkbnpovf .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -224,7 +224,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   overflow-x: hidden;
 }
 
-#vfdagkjmvv .gt_stub {
+#jlrkbnpovf .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -236,7 +236,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   padding-left: 12px;
 }
 
-#vfdagkjmvv .gt_summary_row {
+#jlrkbnpovf .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -246,7 +246,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   padding-right: 5px;
 }
 
-#vfdagkjmvv .gt_first_summary_row {
+#jlrkbnpovf .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -256,7 +256,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-top-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_grand_summary_row {
+#jlrkbnpovf .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -266,7 +266,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   padding-right: 5px;
 }
 
-#vfdagkjmvv .gt_first_grand_summary_row {
+#jlrkbnpovf .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -276,11 +276,11 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-top-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_striped {
+#jlrkbnpovf .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#vfdagkjmvv .gt_table_body {
+#jlrkbnpovf .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -289,7 +289,7 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-bottom-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_footnotes {
+#jlrkbnpovf .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -303,13 +303,13 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-right-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_footnote {
+#jlrkbnpovf .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#vfdagkjmvv .gt_sourcenotes {
+#jlrkbnpovf .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -323,41 +323,41 @@ If you find any other useful links, especially those with practice scenarios, sh
   border-right-color: #D3D3D3;
 }
 
-#vfdagkjmvv .gt_sourcenote {
+#jlrkbnpovf .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#vfdagkjmvv .gt_left {
+#jlrkbnpovf .gt_left {
   text-align: left;
 }
 
-#vfdagkjmvv .gt_center {
+#jlrkbnpovf .gt_center {
   text-align: center;
 }
 
-#vfdagkjmvv .gt_right {
+#jlrkbnpovf .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#vfdagkjmvv .gt_font_normal {
+#jlrkbnpovf .gt_font_normal {
   font-weight: normal;
 }
 
-#vfdagkjmvv .gt_font_bold {
+#jlrkbnpovf .gt_font_bold {
   font-weight: bold;
 }
 
-#vfdagkjmvv .gt_font_italic {
+#jlrkbnpovf .gt_font_italic {
   font-style: italic;
 }
 
-#vfdagkjmvv .gt_super {
+#jlrkbnpovf .gt_super {
   font-size: 65%;
 }
 
-#vfdagkjmvv .gt_footnote_marks {
+#jlrkbnpovf .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -424,6 +424,55 @@ If you find any other useful links, especially those with practice scenarios, sh
 <td class="gt_row gt_center"><a href = "https://oxfordmedicaleducation.com/clinical-examinations/">https://oxfordmedicaleducation.com/clinical-examinations/</a></td>
 <td class="gt_row gt_left">-</td>
 <td class="gt_row gt_left">2022-01-22</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">ddxof App</td>
+<td class="gt_row gt_left">Tom Fadial</td>
+<td class="gt_row gt_center"><a href = "https://ddxof.com/">https://ddxof.com/</a></td>
+<td class="gt_row gt_left">A library of clinical decision support algorithms for emergency physicians</td>
+<td class="gt_row gt_left">2022-01-26</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">Differential Diagnosis Checklist</td>
+<td class="gt_row gt_left">Jacobi EM Residency Program</td>
+<td class="gt_row gt_center"><a href = "http://jacobiem.org/wp-content/uploads/2013/07/Differential-Diagnosis-Checklist.doc">http://jacobiem.org/wp-content/uploads/2013/07/Differential-Diagnosis-Checklist.doc</a></td>
+<td class="gt_row gt_left">Link points to a downloadable Word document</td>
+<td class="gt_row gt_left">2022-01-27</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">How to Create a Differential Diagnosis Part 1</td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_center"><a href = "https://www.youtube.com/watch?v=qKrLPY_8Cyk">https://www.youtube.com/watch?v=qKrLPY_8Cyk</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-27</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">How to Create a Differential Diagnosis Part 2</td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_center"><a href = "https://www.youtube.com/watch?v=iEbonwYPNVk">https://www.youtube.com/watch?v=iEbonwYPNVk</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-27</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">How to Create a Differential Diagnosis Part 3</td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_center"><a href = "https://www.youtube.com/watch?v=n48zY7GLqc0">https://www.youtube.com/watch?v=n48zY7GLqc0</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-27</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">First Aid for Step 2 CS</td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_center"><a href = "https://www.amazon.ca/First-Aid-USMLE-Step-Tenth-dp-126044029X/dp/126044029X/ref=dp_ob_title_bk">https://www.amazon.ca/First-Aid-USMLE-Step-Tenth-dp-126044029X/dp/126044029X/ref=dp_ob_title_bk</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-27</td>
+<td class="gt_row gt_center">-</td>
+<td class="gt_row gt_left">-</td></tr>
+    <tr><td class="gt_row gt_left">Techniques to Improve Your Differential Diagnosis</td>
+<td class="gt_row gt_left">ModernMedEd</td>
+<td class="gt_row gt_center"><a href = "https://modernmeded.com/elements-of-a-good-differential-diagnosis-for-any-condition/">https://modernmeded.com/elements-of-a-good-differential-diagnosis-for-any-condition/</a></td>
+<td class="gt_row gt_left">-</td>
+<td class="gt_row gt_left">2022-01-27</td>
 <td class="gt_row gt_center">-</td>
 <td class="gt_row gt_left">-</td></tr>
   </tbody>

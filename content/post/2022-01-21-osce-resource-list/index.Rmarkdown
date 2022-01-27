@@ -10,7 +10,7 @@ tags:
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-01-22T12:11:00Z'
+lastmod: '2022-01-27T15:52:00Z'
 featured: no
 image:
   caption: ''
@@ -23,7 +23,7 @@ link-citations: yes
 ---
 
 This is a growing list of OSCE resources that I've found helpful as I find them on the Internet. Some links are older so may need archiving in case they are lost forever. 
-If you find any other useful links, especially those with practice scenarios, shoot me an e-mail down below (click the blue envelope below my name!).
+If you find any other useful links, especially those with practice scenarios, let me know!
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE}
 
