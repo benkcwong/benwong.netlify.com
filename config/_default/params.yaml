@@ -109,7 +109,7 @@ breadcrumb:
   page_types:
     book: true
 comments:
-  provider: ''
+  provider: 'utterances'
   commentable:
     post: true
     book: true
@@ -117,10 +117,15 @@ comments:
     publication: true
     event: true
   disqus:
-    shortname: ''
+    shortname: 'benkcwong'
     show_count: true
   commento:
     url: ''
+    utterances:
+    repo: 'benkcwong/benwong.netlify.com'
+    issue_term: 'title'
+    label: 'comments'
+    theme: 'github-dark'
 search:
   provider: wowchemy
   algolia:
