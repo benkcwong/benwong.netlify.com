@@ -25,12 +25,12 @@ link-citations: yes
 This is a growing list of OSCE resources that I’ve found helpful as I find them on the Internet. Some links are older so may need archiving in case they are lost forever.
 If you find any other useful links, especially those with practice scenarios, let me know!
 
-<div id="jlrkbnpovf" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zgnvdugkgr" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
 <style>html {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
 }
 
-#jlrkbnpovf .gt_table {
+#zgnvdugkgr .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -55,7 +55,7 @@ If you find any other useful links, especially those with practice scenarios, le
   border-left-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_heading {
+#zgnvdugkgr .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -67,7 +67,7 @@ If you find any other useful links, especially those with practice scenarios, le
   border-right-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_title {
+#zgnvdugkgr .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -77,7 +77,7 @@ If you find any other useful links, especially those with practice scenarios, le
   border-bottom-width: 0;
 }
 
-#jlrkbnpovf .gt_subtitle {
+#zgnvdugkgr .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -87,13 +87,13 @@ If you find any other useful links, especially those with practice scenarios, le
   border-top-width: 0;
 }
 
-#jlrkbnpovf .gt_bottom_border {
+#zgnvdugkgr .gt_bottom_border {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_col_headings {
+#zgnvdugkgr .gt_col_headings {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -108,7 +108,7 @@ If you find any other useful links, especially those with practice scenarios, le
   border-right-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_col_heading {
+#zgnvdugkgr .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -128,7 +128,7 @@ If you find any other useful links, especially those with practice scenarios, le
   overflow-x: hidden;
 }
 
-#jlrkbnpovf .gt_column_spanner_outer {
+#zgnvdugkgr .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -140,15 +140,15 @@ If you find any other useful links, especially those with practice scenarios, le
   padding-right: 4px;
 }
 
-#jlrkbnpovf .gt_column_spanner_outer:first-child {
+#zgnvdugkgr .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#jlrkbnpovf .gt_column_spanner_outer:last-child {
+#zgnvdugkgr .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#jlrkbnpovf .gt_column_spanner {
+#zgnvdugkgr .gt_column_spanner {
   border-bottom-style: solid;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -160,7 +160,7 @@ If you find any other useful links, especially those with practice scenarios, le
   width: 100%;
 }
 
-#jlrkbnpovf .gt_group_heading {
+#zgnvdugkgr .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -182,7 +182,7 @@ If you find any other useful links, especially those with practice scenarios, le
   vertical-align: middle;
 }
 
-#jlrkbnpovf .gt_empty_group_heading {
+#zgnvdugkgr .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -197,15 +197,15 @@ If you find any other useful links, especially those with practice scenarios, le
   vertical-align: middle;
 }
 
-#jlrkbnpovf .gt_from_md > :first-child {
+#zgnvdugkgr .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#jlrkbnpovf .gt_from_md > :last-child {
+#zgnvdugkgr .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#jlrkbnpovf .gt_row {
+#zgnvdugkgr .gt_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -224,7 +224,7 @@ If you find any other useful links, especially those with practice scenarios, le
   overflow-x: hidden;
 }
 
-#jlrkbnpovf .gt_stub {
+#zgnvdugkgr .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 100%;
@@ -236,7 +236,7 @@ If you find any other useful links, especially those with practice scenarios, le
   padding-left: 12px;
 }
 
-#jlrkbnpovf .gt_summary_row {
+#zgnvdugkgr .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -246,7 +246,7 @@ If you find any other useful links, especially those with practice scenarios, le
   padding-right: 5px;
 }
 
-#jlrkbnpovf .gt_first_summary_row {
+#zgnvdugkgr .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -256,7 +256,7 @@ If you find any other useful links, especially those with practice scenarios, le
   border-top-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_grand_summary_row {
+#zgnvdugkgr .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -266,7 +266,7 @@ If you find any other useful links, especially those with practice scenarios, le
   padding-right: 5px;
 }
 
-#jlrkbnpovf .gt_first_grand_summary_row {
+#zgnvdugkgr .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -276,11 +276,11 @@ If you find any other useful links, especially those with practice scenarios, le
   border-top-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_striped {
+#zgnvdugkgr .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#jlrkbnpovf .gt_table_body {
+#zgnvdugkgr .gt_table_body {
   border-top-style: solid;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -289,7 +289,7 @@ If you find any other useful links, especially those with practice scenarios, le
   border-bottom-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_footnotes {
+#zgnvdugkgr .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -303,13 +303,13 @@ If you find any other useful links, especially those with practice scenarios, le
   border-right-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_footnote {
+#zgnvdugkgr .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#jlrkbnpovf .gt_sourcenotes {
+#zgnvdugkgr .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -323,41 +323,41 @@ If you find any other useful links, especially those with practice scenarios, le
   border-right-color: #D3D3D3;
 }
 
-#jlrkbnpovf .gt_sourcenote {
+#zgnvdugkgr .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#jlrkbnpovf .gt_left {
+#zgnvdugkgr .gt_left {
   text-align: left;
 }
 
-#jlrkbnpovf .gt_center {
+#zgnvdugkgr .gt_center {
   text-align: center;
 }
 
-#jlrkbnpovf .gt_right {
+#zgnvdugkgr .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#jlrkbnpovf .gt_font_normal {
+#zgnvdugkgr .gt_font_normal {
   font-weight: normal;
 }
 
-#jlrkbnpovf .gt_font_bold {
+#zgnvdugkgr .gt_font_bold {
   font-weight: bold;
 }
 
-#jlrkbnpovf .gt_font_italic {
+#zgnvdugkgr .gt_font_italic {
   font-style: italic;
 }
 
-#jlrkbnpovf .gt_super {
+#zgnvdugkgr .gt_super {
   font-size: 65%;
 }
 
-#jlrkbnpovf .gt_footnote_marks {
+#zgnvdugkgr .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
