@@ -16,7 +16,10 @@ organizations:
   url: 
 role: Epidemiologist
 social:
-- icon: envelope
+- icon: file-pdf
+  icon_pack: fas
+  link: /media/BW_CV_Short_15Jan2022.pdf
+- icon: paper-plane
   icon_pack: fas
   link: /#contact
 - display:
@@ -24,15 +27,15 @@ social:
   icon: twitter
   icon_pack: fab
   link: https://twitter.com/benkcwong
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/benckcwong/
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.ca/citations?user=87cmlcIAAAAJ&hl=nl
 - icon: github
   icon_pack: fab
   link: https://github.com/benkcwong
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/benckcwong/
 - icon: goodreads
   icon_pack: fab
   link: https://www.goodreads.com/user/show/80394126-ben-wong
