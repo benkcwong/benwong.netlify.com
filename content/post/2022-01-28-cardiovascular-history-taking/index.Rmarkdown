@@ -29,109 +29,108 @@ history, with focus on chest pain, arrythmia and heart failure
 3. Elicit relevant risk factors for cardiovascular pathology.
 
 ### Presenting complaint and history of presenting complaint
-• Chest pain
-o SR COPD SARA
-o Site/radiation
-▪ Ask the patient to point to the site of pain
-▪ Central / retrosternal / right / left 
-▪ Ask about radiation of pain
-o Angina → left arm, neck, jaw
-o Character
-▪ Angina – crushing, heavy
-▪ Pleurisy / pleurisy – sharp pain on inspiration/cough
-o Onset, Periodicity, Duration
-▪ Determine whether the pain is acute or chronic
-▪ When it began (exercise?)
-▪ Previous episodes
-▪ How often it occurs
-• Severity
-o Out of 10
-o Getting better/worse
-o Aggravating /Relieving Factors
-▪ Worse lying flat – pericarditis (or acute pancreatitis)
-▪ Worse with exertion - angina
-▪ Worse with breathing - pleurisy 
-o Associated features
-▪ SOB (Dyspnoea)
-▪ Palpitations
-▪ Anxiety
-▪ Nausea +/- Vomiting
-▪ Sweating (Diaphoresis)
-▪ Pre-syncope (feeling faint / “dizzy”)
-▪ Syncope (collapse / fainting / “funny turn” / blackout / LOC)
-▪ Postural/Orthostatic hypotension (pre-syncope on standing)
-▪ Fever / chills
-▪ Cough – productive / non-productive
-o Stable / Unstable
-▪ Stable (angina pectoris) – with exertion
-▪ Unstable (crescendo) – onset even at rest. (Acute Coronary 
-Syndrome)
-▪ Acute Coronary Syndrome = Unstable angina / Myocardial 
-Infarction
-Associated Symptoms:
-• Palpitations
-o Abnormal / irregular beat?
-o Skipped beat?
-o Fast / slow?
-o Previous episodes?
-o Frequency of episodes?
-o Duration of episodes?
-o Exacerbating / relieving factors? (eg. Valsalva)
-o Previous ECG / Holter Monitor
-o Previous cardiac issues (Heart Failure / MI)
-o Pacemaker?
-o Sudden Adult Death Syndrome in family?
-o Associated symptoms: anxiety / SOB / chest pain / syncope / presyncope?
-Congestive Heart Failure
-o Dyspnoea
-▪ Exertional?
-▪ Cough
-o Orthopnoea
-▪ Number of pillows? 
-o Paroxysmal Nocturnal Dyspnoea (PND)
-▪ Wake up / forced to get out of bead, gasping for breath?
-o Ankle oedema
-▪ Pitting oedema
-▪ How far up leg?
-▪ Weight gain?
-▪ Worse in evenings?
-o Fatigue / Exercise Intolerance
-Aortic Stenosis
-o Chest pain
-o SOB
-o Syncope
-Risk Factors for ACS (not exhaustive)
-o Hypertension
-o Dyslipidaemia
-o Peripheral Vascular Disease (PVD) – intermittent claudication?
-o Diabetes
-o Chronic Kidney Disease (CKD)
-o Family History
-o Obesity
-o Alcohol
-o Older age
-o Physical inactivity / Sedentary lifestyle
-Past Medical/Surgical History
-Other medical/surgical problems 
-NB: Diabetes / HTN / Hypercholestrolaemia / PVD / CKD / RA
-Previous MI / CABG / stents / valve replacement etc. 
-Medication
-NB: Anti-hypertensives / Anti-lipids (eg. Statins) / Aspirin
-Compliance?
-Allergies
-Social History
-Home: Married/children?
-Alcohol
-Smoking
-Hobbies (Diet and Exercise)
-Occupation
-Travel
-Employed (Stress?)
-Family History
-Sudden death in family: hypertrophic cardiomyopathy, Brugada syndrome
-Familial hypercholesterolaemia
-Systems Review
 
+For central chest pain, follow the mnemonic: SR COPD SARA
+* Site/Radiation
+  + Ask the patient to point to the site of pain
+  + Central / retrosternal / right / left 
+  + Ask about radiation of pain
+  + Angina → left arm, neck, jaw
+* Character
+  + Angina – crushing, heavy
+  + Pleurisy / pleurisy – sharp pain on inspiration/cough
+* Onset, Periodicity, Duration
+  + Determine whether the pain is acute or chronic
+  + When it began (exercise?)
+  + Previous episodes
+  + How often it occurs
+* Severity
+  + Out of 10
+  + Getting better/worse
+* Aggravating /Relieving Factors
+  + Worse lying flat – pericarditis (or acute pancreatitis)
+  + Worse with exertion - angina
+  + Worse with breathing - pleurisy 
+* Associated features
+  + SOB (Dyspnoea)
+  + Palpitations
+  + Anxiety
+  + Nausea +/- Vomiting
+  + Sweating (Diaphoresis)
+  + Pre-syncope (feeling faint / “dizzy”)
+  + Syncope (collapse / fainting / “funny turn” / blackout / LOC)
+  + Postural/Orthostatic hypotension (pre-syncope on standing)
+  + Fever / chills
+  + Cough – productive / non-productive
+  + Stable / Unstable
+    - Stable (angina pectoris) – with exertion
+    - Unstable (crescendo) – onset even at rest. (Acute Coronary Syndrome)
+  + Acute Coronary Syndrome = Unstable angina / Myocardial Infarction
+* Associated Symptoms:
+  + Palpitations
+    + Abnormal / irregular beat?
+    + Skipped beat?
+    + Fast / slow?
+    + Previous episodes?
+    + Frequency of episodes?
+    + Duration of episodes?
+    + Exacerbating / relieving factors? (eg. Valsalva)
+    + Previous ECG / Holter Monitor
+    + Previous cardiac issues (Heart Failure / MI)
+    + Pacemaker?
+    + Sudden Adult Death Syndrome in family?
+    + Associated symptoms: anxiety / SOB / chest pain / syncope / pre-syncope?
+  + Congestive Heart Failure
+    + Dyspnoea
+      + Exertional?
+      + Cough
+    + Orthopnoea
+      + Number of pillows? 
+    + Paroxysmal Nocturnal Dyspnoea (PND)
+      + Wake up / forced to get out of bead, gasping for breath?
+    + Ankle oedema
+      + Pitting oedema
+      + How far up leg?
+      + Weight gain?
+      + Worse in evenings?
+    + Fatigue / Exercise Intolerance
+  + Aortic Stenosis
+    + Chest pain
+    + SOB
+    + Syncope
+* Risk Factors for ACS (not exhaustive)
+  + Hypertension
+  + Dyslipidaemia
+  + Peripheral Vascular Disease (PVD) – intermittent claudication?
+  + Diabetes
+  + Chronic Kidney Disease (CKD)
+  + Family History
+  + Obesity
+  + Alcohol
+  + Older age
+  + Physical inactivity / Sedentary lifestyle
+* Past Medical/Surgical History
+  + Other medical/surgical problems 
+  + NB: Diabetes / HTN / Hypercholestrolaemia / PVD / CKD / RA
+  + Previous MI / CABG / stents / valve replacement etc. 
+* Medication
+  + NB: Anti-hypertensives / Anti-lipids (eg. Statins) / Aspirin
+  + Compliance?
+* Allergies
+* Social History
+  + Home: Married/children?
+  + Alcohol
+  + Smoking
+  + Hobbies (Diet and Exercise)
+  + Occupation
+  + Travel
+  + Employed (Stress?)
+* Family History
+  + Sudden death in family: hypertrophic cardiomyopathy, Brugada syndrome
+  + Familial hypercholesterolaemia
+* Systems Review
+
+# Notes
 
 Chest pain
 Crushing or "weight" on the chest is characteristic of ischemia in cardiac muscle
